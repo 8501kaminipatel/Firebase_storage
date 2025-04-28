@@ -18,7 +18,7 @@ This React project is set up with Vite for fast development. It includes basic s
 
 ### Features
 - Fast development with Vite
-- React 18 setup
+- React 19 setup
 - Hot module replacement (HMR) for quick updates during development
 - Optimized production builds
 
@@ -30,4 +30,7 @@ To get started, clone the repository and install the necessary dependencies.
 
    ```bash
    git clone https://github.com/your-username/my-react-project.git
-   cd my-react-project
+   cd vite-project
+   npm install
+   npm run dev
+   
